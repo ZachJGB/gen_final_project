@@ -1,2 +1,4 @@
-# gen_final_project
-place for gen711 final project
+# Gen 711 final project
+
+## Data stolen by;
+Zach, Riley, and John
