@@ -1,3 +1,3 @@
 #! Final project code
-#hello
+#echo boom
 mkdir qiime2-fmt-tutorial
