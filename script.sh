@@ -135,6 +135,10 @@ qiime phylogeny align-to-tree-mafft-fasttree \
   --o-masked-alignment masked-aligned-rep-seqs.qza \
   --o-tree unrooted-tree.qza \
   --o-rooted-tree rooted-tree.qza
+qiime empress tree-plot \
+    --i-tree rooted-tree.qza \
+    --m-feature-metadata-file taxonomy.qza \
+    --o-visualization tree-viz.qzv
 
 *IN POWERSHELL RETRIEVED .QZA DOCUMENTS ONTO LOCAL DEVICE*
         see above for protocol
