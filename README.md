@@ -1,4 +1,4 @@
 # Gen 711 final project
 
-## Data stolen by;
+## By;
 Zach, Riley, and John
