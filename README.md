@@ -28,3 +28,15 @@ Scatterplots containing relatedness of samples between treatments
 ![unweighted unifrac screenshot](https://github.com/ZachJGB/gen_final_project/assets/157840948/8fdcc879-1a2f-4ecc-ba19-47943b4a90d1)
 ![jaccard screenshot](https://github.com/ZachJGB/gen_final_project/assets/157840948/217c360e-ccff-47af-8765-55c8cecee69f)
 ![bray curtis screenshot](https://github.com/ZachJGB/gen_final_project/assets/157840948/9464f07a-7cac-4fa3-a009-35dda103b66f)
+
+## Alpha diversity Box Plots
+Box plots explaining alpha diversity between treatments.
+-Faith pd plot and table show the rischness at the alpha diversity level
+![faith pd group significance screenshot](https://github.com/ZachJGB/gen_final_project/assets/157840948/7755e98d-d69e-4b81-a79b-7f745c7afebe)
+![faith pd group significance table](https://github.com/ZachJGB/gen_final_project/assets/157840948/1723829a-f0d2-4aad-882a-b3879c59e2ce)
+
+-evenness group boxpot and table show evenmenss between treatments at the alpha diversity level
+![evenness group significance screenshot](https://github.com/ZachJGB/gen_final_project/assets/157840948/280789fa-19c3-4bc5-8ea8-d6b12c25b330)
+![evenness group significance table](https://github.com/ZachJGB/gen_final_project/assets/157840948/15eb89db-ecce-46b1-98ce-67510c7bbd03)
+
+
