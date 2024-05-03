@@ -48,6 +48,10 @@ Box plots containing beta diversity between treatments amd distances to and from
 [donor-boxplots.pdf](https://github.com/ZachJGB/gen_final_project/files/15204392/donor-boxplots.pdf)
 [treatment-boxplots.pdf](https://github.com/ZachJGB/gen_final_project/files/15204394/treatment-boxplots.pdf)
 
-
-
+## Signifcance Permanova tables
+Tables including significance levels of both subject (treatment groups) and body (Sample type)
+![subject permanova table](https://github.com/ZachJGB/gen_final_project/assets/157840948/a2a638ae-a9cd-4ef7-be85-3020affcf82e)
+![subject permanova table 2](https://github.com/ZachJGB/gen_final_project/assets/157840948/8e35f639-7610-4645-8c2d-d3b818adbba7)
+![body permanova table 2](https://github.com/ZachJGB/gen_final_project/assets/157840948/cddd180d-af97-45a5-a431-92cea008943b)
+![body permanova table](https://github.com/ZachJGB/gen_final_project/assets/157840948/42352c7f-7254-4dbb-9421-53051eeaaeb6)
 
