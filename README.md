@@ -39,4 +39,15 @@ Box plots explaining alpha diversity between treatments.
 ![evenness group significance screenshot](https://github.com/ZachJGB/gen_final_project/assets/157840948/280789fa-19c3-4bc5-8ea8-d6b12c25b330)
 ![evenness group significance table](https://github.com/ZachJGB/gen_final_project/assets/157840948/15eb89db-ecce-46b1-98ce-67510c7bbd03)
 
+## Beta diversity Box Plots
+Box plots containing beta diversity between treatments amd distances to and from several variables
+[fmt-material-boxplots.pdf](https://github.com/ZachJGB/gen_final_project/files/15204372/fmt-material-boxplots.pdf)
+[stool-boxplots.pdf](https://github.com/ZachJGB/gen_final_project/files/15204388/stool-boxplots.pdf)
+[swab-boxplots.pdf](https://github.com/ZachJGB/gen_final_project/files/15204389/swab-boxplots.pdf)
+[control-boxplots.pdf](https://github.com/ZachJGB/gen_final_project/files/15204391/control-boxplots.pdf)
+[donor-boxplots.pdf](https://github.com/ZachJGB/gen_final_project/files/15204392/donor-boxplots.pdf)
+[treatment-boxplots.pdf](https://github.com/ZachJGB/gen_final_project/files/15204394/treatment-boxplots.pdf)
+
+
+
 
