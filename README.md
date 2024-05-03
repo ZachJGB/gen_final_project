@@ -21,3 +21,10 @@ Taxonomic data including screenshot of table that contains taxa identification. 
 ![taxonomy qzv screenshot](https://github.com/ZachJGB/gen_final_project/assets/157840948/e2b53bb5-697a-46cd-b4cf-baa9ad254d74)
  Graph containing taxonomic reads sorting based on phylogenetic kingdom
 ![taxa bar plot screenshot](https://github.com/ZachJGB/gen_final_project/assets/157840948/cd4758c9-c990-47f4-81b1-496dbc45a0bc)
+
+## Treatment scatterplots
+Scatterplots containing relatedness of samples between treatments
+![weighted unifrac screenshot](https://github.com/ZachJGB/gen_final_project/assets/157840948/e959f4de-515b-45e1-a907-d88a10dc920a)
+![unweighted unifrac screenshot](https://github.com/ZachJGB/gen_final_project/assets/157840948/8fdcc879-1a2f-4ecc-ba19-47943b4a90d1)
+![jaccard screenshot](https://github.com/ZachJGB/gen_final_project/assets/157840948/217c360e-ccff-47af-8765-55c8cecee69f)
+![bray curtis screenshot](https://github.com/ZachJGB/gen_final_project/assets/157840948/9464f07a-7cac-4fa3-a009-35dda103b66f)
