@@ -1,6 +1,4 @@
-# Gen 711 final project
-
-# Graphs and Important images
+# Gen 711 final project: Graphs and Important images
 All important files collected thorugh our methods
 
 ## Demux Summaries
