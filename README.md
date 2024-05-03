@@ -10,3 +10,8 @@ Demux 1 and 2 (Forward and Reverse)
 -summary plots 1 and 2 including sequence bases and their quality scores
 ![demux-summary-plot-1](https://github.com/ZachJGB/gen_final_project/assets/157840948/346813c8-8478-4990-af5f-a8b06a596469)
 ![demux-summary-plot-2](https://github.com/ZachJGB/gen_final_project/assets/157840948/44eb5989-05cc-49f3-b118-62d302750077)
+
+## Frequency graphs
+Graphs containing frequencies of features and samples relative to the # of features or samples
+![feature-frequencies.pdf](https://github.com/ZachJGB/gen_final_project/files/15201499/feature-frequencies.pdf)
+![stool-boxplots.pdf](https://github.com/ZachJGB/gen_final_project/files/15201500/stool-boxplots.pdf)
