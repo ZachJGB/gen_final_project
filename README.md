@@ -58,6 +58,6 @@ Tables including significance levels of both subject (treatment groups) and body
 ![body permanova table](https://github.com/ZachJGB/gen_final_project/assets/157840948/42352c7f-7254-4dbb-9421-53051eeaaeb6)
 
 ## Phylogenetic tree and key
-Tree containing all awesome fecal data
+Tree containing all taxanomic data, showing bacteria as the major kingdom of fecal microbiome organisms
 ![tree screenshot](https://github.com/ZachJGB/gen_final_project/assets/157840948/45790566-96c6-4734-808a-5e4bd828c539)
 ![tree legend screenshot](https://github.com/ZachJGB/gen_final_project/assets/157840948/ee46521d-4c76-4995-9553-ae96fe9480de)
