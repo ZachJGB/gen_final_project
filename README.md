@@ -1,7 +1,7 @@
 # Gen 711 final project: Graphs and Important images
 BY Zach Gravel-Blaney, Riley Wilson and John Kelleher
 
-All important files collected thorugh our methods
+All important Raw data files collected thorugh our methods
 
 ## Demux Summaries
 Demux 1 and 2 (Forward and Reverse)
