@@ -2,17 +2,17 @@
 By Zach Gravel-Blaney, Riley Wilson and John Kelleher
 <details>
  <summary>Background</summary>
-This data was taken from a study on the correlation between the human gut microbiome and autism spectrum disorder (ASD) gastrointestinal issues
-The main goal of this study was to evaluate the effect of Microbiota Transfer Therapy (MTT) on the GI of ASD-diagnosed children and overall how that impacted ASD symptoms
+This data was taken from a study on the correlation between the human gut microbiome and autism spectrum disorder (ASD) gastrointestinal issues.
+The main goal of this study was to evaluate the effect of Microbiota Transfer Therapy (MTT) on the GI of ASD-diagnosed children and overall how that impacted ASD symptoms.
 
 Kang, DW., Adams, J.B., Gregory, A.C. et al. Microbiota Transfer Therapy alters gut ecosystem and improves gastrointestinal and autism symptoms: an open-label study. Microbiome 5, 10 (2017). https://doi.org/10.1186/s40168-016-0225-7
 
-One group received the MTT fecal transplant (treatment group) and one group did not receive the transplant (control group)
-Stool collections and fecal swab were collected bi-weekly for 12 weeks
-DNA was isolated from both sample collection avenues with PowerSoil® DNA Isolation Kit
-A 16S rRNA library prep from Illumina MiSeq was performed to amplify specifically bacterial and archaeal DNA
-Primer tag: 515f-806r
-10% of total data was analyzed
+One group received the MTT fecal transplant (treatment group) and one group did not receive the transplant (control group).
+Stool collections and fecal swab were collected bi-weekly for 12 weeks.
+DNA was isolated from both sample collection avenues with PowerSoil® DNA Isolation Kit.
+A 16S rRNA library prep from Illumina MiSeq was performed to amplify specifically bacterial and archaeal DNA.
+(Primer tag: 515f-806r)
+10% of total data was analyzed.
 </details>
 <details>
  <summary>Methods</summary>
