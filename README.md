@@ -60,6 +60,7 @@ Downloaded a reference classifier for human stool from SILVA rRNA database using
 “qiime diversity beta-group-significance”
   produced several graphs to compare how the treatment groups and sample types are associated
 </details>
+     </details>
 All important Raw data files collected thorugh our methods
 
 ## Demux Summaries
