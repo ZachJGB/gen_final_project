@@ -22,6 +22,7 @@ Performed “wget” command to download metadata and raw reads
   Downloaded forward and reverse reads 
 Installed “qiime2-2022.2” onto local device using “wget” and “conda env create”
   Enabled all “qiime2” analysis to be done in terminal
+ </details>
   <details>
   <summary>Denoising</summary>
 “qiime demux summarize” 
@@ -31,6 +32,7 @@ Installed “qiime2-2022.2” onto local device using “wget” and “conda en
   trimmed and truncated both raw reads
 “qiime metadata tabulate”
   output table containing all read information (feature ID, filtering statistics, how much of the data was denoised/passed filter)
+  </details>
    <details>
   <summary>Merging Reads and Alignment</summary>
 “qiime feature-table merge”
@@ -39,11 +41,13 @@ Installed “qiime2-2022.2” onto local device using “wget” and “conda en
   create frequency table from merged sequences
 “qiime feature-table tabulate-seqs”
   show table of merged DNA
+   </details>
     <details>
   <summary>Taxonomy Assignment</summary>
 Downloaded a reference classifier for human stool from SILVA rRNA database using “wget”
 “qiime feature-classifier classify-sklearn” and “qiime metadata tabulate”
   uses reference classifier to compare sequences to known bacteria in human stool and create a list of taxa found
+    </details>
      <details>
   <summary>Phylogenetic Tree Assembly</summary>
 “qiime phylogeny align-to-tree-mafft-fasttree”
@@ -51,6 +55,7 @@ Downloaded a reference classifier for human stool from SILVA rRNA database using
 “qiime empress tree-plot”
   had to install the “empress” extension for qiime 
   creates a physical phylogenetic tree for the data
+     </details>
       <details>
   <summary>Alpha and Beta Diversity Analysis</summary>
 “qiime diversity core-metrics-phylogenetic”
@@ -60,7 +65,8 @@ Downloaded a reference classifier for human stool from SILVA rRNA database using
 “qiime diversity beta-group-significance”
   produced several graphs to compare how the treatment groups and sample types are associated
 </details>
-     </details>
+</details>
+
 All important Raw data files collected thorugh our methods
 
 ## Demux Summaries
