@@ -135,6 +135,7 @@ The most difficult part of this project was trying to download all files onto a 
 Best analysis and result: taxonomic assignment and the phylogenetic tree
   Best visualization of bacteria present
 </details>
+<details>
 <summary>References</summary>
 “Fecal Microbiota Transplant (FMT) Study: An Exercise¶.” QIIME 2 Docs, docs.qiime2.org/2022.2/tutorials/fmt/. Accessed 10 May 2024.
 Kaehler BD, Bokulich NA, McDonald D, Knight R, Caporaso JG, Huttley GA. (2019). Species-level microbial sequence classification is improved by source-environment information. Nature Communications 10: 4643.
