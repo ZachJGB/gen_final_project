@@ -1,5 +1,5 @@
-# Gen 711 final project: Graphs and Important images
-BY Zach Gravel-Blaney, Riley Wilson and John Kelleher
+# Gen 711 final project: A Summary
+By Zach Gravel-Blaney, Riley Wilson and John Kelleher
 <details>
  <summary>Background</summary>
 This data was taken from a study on the correlation between the human gut microbiome and autism spectrum disorder (ASD) gastrointestinal issues
@@ -67,6 +67,8 @@ Downloaded a reference classifier for human stool from SILVA rRNA database using
 </details>
 </details>
 
+<details>
+ <summary>Results</summary>
 All important Raw data files collected thorugh our methods
 
 ## Demux Summaries
@@ -127,6 +129,7 @@ Tables including significance levels of both subject (treatment groups) and body
 Tree containing all taxanomic data, showing bacteria as the major kingdom of fecal microbiome organisms
 ![tree screenshot](https://github.com/ZachJGB/gen_final_project/assets/157840948/45790566-96c6-4734-808a-5e4bd828c539)
 ![tree legend screenshot](https://github.com/ZachJGB/gen_final_project/assets/157840948/ee46521d-4c76-4995-9553-ae96fe9480de)
+</details>
 
 <details>
 <summary>Major Takeaways</summary>
