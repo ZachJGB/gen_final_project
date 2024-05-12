@@ -13,6 +13,7 @@ DNA was isolated from both sample collection avenues with PowerSoil® DNA Isolat
 A 16S rRNA library prep from Illumina MiSeq was performed to amplify specifically bacterial and archaeal DNA
 Primer tag: 515f-806r
 10% of total data was analyzed
+</details>
 <details>
  <summary>Methods</summary>
  <details>
