@@ -19,51 +19,51 @@ A 16S rRNA library prep from Illumina MiSeq was performed to amplify specificall
  <details>
   <summary>Data Import and Qiime Installation</summary>
 Performed “wget” command to download metadata and raw reads
-  Downloaded forward and reverse reads 
+  *Downloaded forward and reverse reads 
 Installed “qiime2-2022.2” onto local device using “wget” and “conda env create”
-  Enabled all “qiime2” analysis to be done in terminal
+  *Enabled all “qiime2” analysis to be done in terminal
  </details>
   <details>
   <summary>Denoising</summary>
 “qiime demux summarize” 
-  first 13 bases will be trimmed 
-  150 bases total length
+  *first 13 bases will be trimmed 
+  *150 bases total length
 “qiime dada2 denoise-single” 
-  trimmed and truncated both raw reads
+  *trimmed and truncated both raw reads
 “qiime metadata tabulate”
-  output table containing all read information (feature ID, filtering statistics, how much of the data was denoised/passed filter)
+  *output table containing all read information (feature ID, filtering statistics, how much of the data was denoised/passed filter)
   </details>
    <details>
   <summary>Merging Reads and Alignment</summary>
 “qiime feature-table merge”
-  merge denoised sequences together and create new aligned clean DNA 
+  *merge denoised sequences together and create new aligned clean DNA 
 “qiime feature-table summarize”
-  create frequency table from merged sequences
+  *create frequency table from merged sequences
 “qiime feature-table tabulate-seqs”
-  show table of merged DNA
+  *show table of merged DNA
    </details>
     <details>
   <summary>Taxonomy Assignment</summary>
 Downloaded a reference classifier for human stool from SILVA rRNA database using “wget”
 “qiime feature-classifier classify-sklearn” and “qiime metadata tabulate”
-  uses reference classifier to compare sequences to known bacteria in human stool and create a list of taxa found
+  *uses reference classifier to compare sequences to known bacteria in human stool and create a list of taxa found
     </details>
      <details>
   <summary>Phylogenetic Tree Assembly</summary>
 “qiime phylogeny align-to-tree-mafft-fasttree”
-  utilizes all of the aligned sequences and taxonomic analysis to construct data for a phylogenetic tree
+  *utilizes all of the aligned sequences and taxonomic analysis to construct data for a phylogenetic tree
 “qiime empress tree-plot”
-  had to install the “empress” extension for qiime 
-  creates a physical phylogenetic tree for the data
+  *had to install the “empress” extension for qiime 
+  *creates a physical phylogenetic tree for the data
      </details>
       <details>
   <summary>Alpha and Beta Diversity Analysis</summary>
 “qiime diversity core-metrics-phylogenetic”
-  set the initial parameters for alpha and beta analysis 
+  *set the initial parameters for alpha and beta analysis 
 “qiime diversity alpha-group-significance”
-  produced graphs regarding the data richness and evenness 
+  *produced graphs regarding the data richness and evenness 
 “qiime diversity beta-group-significance”
-  produced several graphs to compare how the treatment groups and sample types are associated
+  *produced several graphs to compare how the treatment groups and sample types are associated
 </details>
 </details>
 
@@ -133,10 +133,10 @@ Tree containing all taxanomic data, showing bacteria as the major kingdom of fec
 
 <details>
 <summary>Major Takeaways</summary>
-qiime2 is an incredibly useful tool to analyze raw reads and transform them into visual statistics 
-The most difficult part of this project was trying to download all files onto a local device to be viewed
-Best analysis and result: taxonomic assignment and the phylogenetic tree
-  Best visualization of bacteria present
+*qiime2 is an incredibly useful tool to analyze raw reads and transform them into visual statistics 
+*The most difficult part of this project was trying to download all files onto a local device to be viewed
+*Best analysis and result: taxonomic assignment and the phylogenetic tree
+  **Best visualization of bacteria present
 </details>
 <details>
 <summary>References</summary>
