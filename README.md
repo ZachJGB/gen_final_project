@@ -19,17 +19,17 @@ A 16S rRNA library prep from Illumina MiSeq was performed to amplify specificall
  <details>
   <summary>Data Import and Qiime Installation</summary>
 Performed “wget” command to download metadata and raw reads
-- Downloaded forward and reverse reads 
+  *  Downloaded forward and reverse reads 
 Installed “qiime2-2022.2” onto local device using “wget” and “conda env create”
-  * Enabled all “qiime2” analysis to be done in terminal
+  *  Enabled all “qiime2” analysis to be done in terminal
  </details>
   <details>
   <summary>Denoising</summary>
 “qiime demux summarize” 
-  * first 13 bases will be trimmed 
-  * 150 bases total length
+  *  first 13 bases will be trimmed 
+  *  150 bases total length
 “qiime dada2 denoise-single” 
-  * trimmed and truncated both raw reads
+  *  trimmed and truncated both raw reads
 “qiime metadata tabulate”
   * output table containing all read information (feature ID, filtering statistics, how much of the data was denoised/passed filter)
   </details>
