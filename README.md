@@ -19,7 +19,7 @@ A 16S rRNA library prep from Illumina MiSeq was performed to amplify specificall
  <details>
   <summary>Data Import and Qiime Installation</summary>
 Performed “wget” command to download metadata and raw reads 
-*  Downloaded forward and reverse reads 
+ - Downloaded forward and reverse reads 
 Installed “qiime2-2022.2” onto local device using “wget” and “conda env create”
   *  Enabled all “qiime2” analysis to be done in terminal
  </details>
